@@ -1,0 +1,10 @@
+﻿  program.cpp
+G:\Projects\Encrypting\Encrypting\program.cpp(53,13): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+G:\Projects\Encrypting\Encrypting\program.cpp(104,7): warning C4129: : неизвестная escape-последовательность
+G:\Projects\Encrypting\Encrypting\program.cpp(105,7): warning C4129: : неизвестная escape-последовательность
+G:\Projects\Encrypting\Encrypting\program.cpp(106,7): warning C4129: : неизвестная escape-последовательность
+G:\Projects\Encrypting\Encrypting\program.cpp(107,7): warning C4129: : неизвестная escape-последовательность
+G:\Projects\Encrypting\Encrypting\program.cpp(108,7): warning C4129: |: неизвестная escape-последовательность
+G:\Projects\Encrypting\Encrypting\program.cpp(108,7): warning C4129: /: неизвестная escape-последовательность
+G:\Projects\Encrypting\Encrypting\program.cpp(108,7): warning C4129: : неизвестная escape-последовательность
+  Encrypting.vcxproj -> G:\Projects\Encrypting\Encrypting\x64\Debug\Encrypting.exe
